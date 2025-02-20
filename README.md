@@ -43,6 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [muluthfi@gmail.com](mailto:your.email@example.com)
 
 Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
